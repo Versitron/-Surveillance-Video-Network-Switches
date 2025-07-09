@@ -9,7 +9,7 @@ Versitron offers a comprehensive range of **industrial Ethernet switches** desig
 ## [Industrial Ethernet Switches for IP Camera Systems](https://www.versitron.com/products/sf70460mpa-4port-101001000-industrial-managed-switch-with-2-pse-poe-ports-2-100m1g-fiber-sfp-slots)  
 Versitron’s **industrial Ethernet switches for IP camera systems** deliver reliable, high-bandwidth connectivity to support HD and 4K IP cameras in harsh environments. Built to withstand vibration, temperature extremes, and electrical noise, these switches ensure seamless data transfer from cameras to recording and monitoring stations.
 
-Ideal for manufacturing plants, transportation hubs, and outdoor surveillance sites, they support Power over Ethernet (PoE) to simplify camera deployments.
+Ideal for manufacturing plants, transportation hubs, and outdoor surveillance sites, they support Power over Ethernet (PoE) to simplify camera deployments. 
 
 ---
 
